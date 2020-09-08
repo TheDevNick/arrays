@@ -15,3 +15,4 @@ console.log(todos[3]);
 // changing specific item in array 
 todos[0] = 'item 1 updated';
 console.log(todos[0]);
+var name = 'nick';
